@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is José Pereira, I'm a Biochemistry PhD student, with a major focus on Computational Chemistry. I'm currently studying at University of Aveiro, Portugal.
+My name is José Pereira, I'm Head of Bioinformatics at FairJourney Biologics, with a major focus on Computational Chemistry. I've studied in Aveiro University, where I did my PhD in Biochemistry.
 
-:computer: **My current focus:** I’m currently working on [ProtoSyn.jl](https://github.com/sergio-santos-group/ProtoSyn.jl). It's a Julia-based platform for molecular manipulation, with a focus on protein design simulations. Go check it out!
+:computer: **My current focus:** I’ve been working on [ProtoSyn.jl](https://github.com/sergio-santos-group/ProtoSyn.jl). It's a Julia-based platform for molecular manipulation, with a focus on protein design simulations. Go check it out!
 
 :books: **My background:** My main programming languages are Julia and Python.
 
